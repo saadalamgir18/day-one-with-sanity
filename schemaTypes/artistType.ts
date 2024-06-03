@@ -6,7 +6,7 @@ export const artistType = defineType({
   type: 'document',
   fields: [
     defineField({
-      name: 'artist',
+      name: 'name',
       type: 'string',
     }),
   ],
